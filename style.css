@@ -1,0 +1,89 @@
+/*structure*/
+
+body {
+    background-color: #F8F8FF;
+}
+  
+  footer {
+    background-color: black;
+  }
+  
+  /*Header and Nav Links*/
+  
+  header h1 a {
+    color: #696969;
+    font-family: Courier, sans-serif;
+    font-size: 25px;
+    text-decoration: none;
+    padding-left: 85px;
+  }
+  
+  header p {
+    text-align: center;
+    font-size: 15px;
+    margin: 15px;
+    color: darkgray;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .nav {
+    float: right;
+    width: 380px;
+    height: 214px;
+    box-sizing: border-box;
+    border: 2px solid darkgray;
+    background-color: aliceblue;
+  }
+  
+  a {
+    color: rgb(99, 162, 187);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    text-decoration: none;
+    padding-left: 30px;
+  }
+  
+  a:hover {
+    color: #4682B4;
+  }
+  
+  .first-image img {
+    width: 379px;
+  }
+  
+  
+  /*Main*/
+  h2, h3 {
+    text-align: center;
+  }
+  
+  .title {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .sub-title {
+    color: #696969;
+    font-family: 'Time New Roman', monospace;
+  }
+  
+  /*Introduction Section*/
+  section p {
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  /*About Me Section*/
+  .list-inside {
+    list-style-position: inside;
+    background-color: aliceblue;
+  }
+  
+  /*Contact Me Section*/
+  
+  
+  /*Footer*/
+  footer p {
+    color: lightgray;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+  }
