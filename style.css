@@ -1,7 +1,9 @@
 /*structure*/
 
 body {
-    background-color: #F8F8FF;
+    background-color: rgba(223, 219, 219, 0.733);
+    padding: 100px 550px;
+    
 }
   
   footer {
@@ -49,6 +51,7 @@ body {
   
   .first-image img {
     width: 379px;
+    position: relative;
   }
   
   
