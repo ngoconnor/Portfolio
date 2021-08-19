@@ -37,16 +37,24 @@ body {
     background-color: aliceblue;
   }
   
-  a {
+  a:link {
     color: #2F4F4F;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 17px;
     text-decoration: none;
     padding-left: 30px;
   }
+
+  a:visited {
+    color: #5F9EA0;
+  }
   
   a:hover {
     color: #4682B4;
+  }
+
+  a:active {
+     color: #191970;
   }
   
   .first-image img {
