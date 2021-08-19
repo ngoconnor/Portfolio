@@ -24,7 +24,7 @@ body {
     text-align: center;
     font-size: 15px;
     margin: 15px;
-    color: darkgray;
+    color: #696969;
     font-family: Arial, Helvetica, sans-serif;
   }
   
@@ -38,7 +38,7 @@ body {
   }
   
   a {
-    color: rgb(99, 162, 187);
+    color: #708090;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 17px;
     text-decoration: none;
